@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Micha 👋
 
-<!--
-**NoisyBoy2905/NoisyBoy2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+T Level Digital Software Development student (also doing A-Level Maths).
+I learn by building games and tools, mostly in Python.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Severance (Text Prototype)](https://github.com/NoisyBoy2905/severance-text)**: a turn-based dungeon crawler in the terminal. Classes, levelling, bosses with telegraphed attacks, and a spreadsheet of balance testing behind it.
+- **[Blackjack](https://github.com/NoisyBoy2905/blackjack)**: a terminal card game with ASCII art, my first Python game.
+- **[GameNotes](https://github.com/NoisyBoy2905/GameNotes)**: design docs and lore for Severance, an MMO I'm planning to build in Unity.
+
+## Skills
+
+Python · HTML · CSS · PHP · SQL · Git
+
+## Learning next
+
+C# and Unity
